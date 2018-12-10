@@ -9,6 +9,4 @@ This repository contains a Jupyter Notebook that can be used for writing the fin
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/introqg/notebooks/master?urlpath=lab)
 [![CSC Notebooks](https://img.shields.io/badge/launch-CSC%20notebook-blue.svg)](https://notebooks.csc.fi/#/blueprint/26d176ec660943bdbc6aa7f76bca3220)
 
-There are 2 problems for this week in a single notebook:
-
  - [Final paper template](IntroQG-final-paper.ipynb)
